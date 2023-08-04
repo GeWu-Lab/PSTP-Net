@@ -47,7 +47,7 @@ numpy
    --global_local True \
    --batch-size 64 --epochs 30 --lr 1e-4 --gpu 0 \
    --checkpoint PSTP_Net \
-   --model_save_dir models_pstp \
+   --model_save_dir models_pstp
    ```
 
 5. Testing
