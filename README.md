@@ -71,4 +71,4 @@ coming soon!
 
 ## Acknowledgement
 
-his research was supported by Public Computing Cloud, Renmin University of China.
+This research was supported by Public Computing Cloud, Renmin University of China.
