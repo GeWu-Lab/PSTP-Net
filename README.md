@@ -1,4 +1,4 @@
-# Progressive Spatio-temporal Perception for Audio-Visual Question Answering (ACMMM'23)
+# Progressive Spatio-temporal Perception for Audio-Visual Question Answering (ACMMM'23) [[arXiv](https://arxiv.org/abs/2308.05421)]
 PyTorch code accompanies our PSTP-Net.
 
 [Guangyao Li](https://ayameyao.github.io/), [Wenxuan Hou](https://hou9612.github.io/),  [Di Hu](https://dtaoo.github.io/index.html)
